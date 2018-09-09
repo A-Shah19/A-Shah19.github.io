@@ -79,7 +79,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Amar Shah.", "Computer Scientist.", "Developer."],
+      strings: ["Amar Shah.", "Computer Scientist.", "Developer.", "Machine Learning Enthusist."],
       typeSpeed: 100,
       loop: true,
     });
